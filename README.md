@@ -1,0 +1,2 @@
+Provisionamento de uma infraestrutura básica na AWS usando Terraform para estudos da ferramenta.
+Foi provisionado instancias EC2, bucket S3, banco de dados Dynamodb e Security Groups, alem da configuraçoes para trabalhar no workspace do Terraform Cloud.
